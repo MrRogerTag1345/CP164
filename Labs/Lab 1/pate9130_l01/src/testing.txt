@@ -1,0 +1,106 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  pate9130_a01
+-------------------------------------------------------
+Author:  Chetas Patel
+ID:      200679130
+Email:   pate9130@mylaurier.ca
+Version: 2021-09-17
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+fantasy, drama, romance, comedy, zombie
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+3,4,5,8
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Genres
+ 0 science fiction
+ 1 fantasy
+ 2 drama
+ 3 romance
+ 4 comedy
+ 5 zombie
+ 6 action
+ 7 historical
+ 8 horror
+ 9 war
+10 mystery
+
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Genres
+ 0 science fiction
+ 1 fantasy
+ 2 drama
+ 3 romance
+ 4 comedy
+ 5 zombie
+ 6 action
+ 7 historical
+ 8 horror
+ 9 war
+10 mystery
+
+Enter a genre number (ENTER to quit): 1
+Enter a genre number (ENTER to quit): 2
+Enter a genre number (ENTER to quit): 3
+Enter a genre number (ENTER to quit): 10
+Enter a genre number (ENTER to quit): 1
+Error: genre already chosen
+Enter a genre number (ENTER to quit): -1
+Error: not a positive number.
+Enter a genre number (ENTER to quit): 12
+Error: input must be < 10
+Enter a genre number (ENTER to quit): 
+[1, 2, 3, 10]
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Title: Bob
+Year of release: 2020
+Director: Not ME
+Rating: 10
+Genres
+ 0 science fiction
+ 1 fantasy
+ 2 drama
+ 3 romance
+ 4 comedy
+ 5 zombie
+ 6 action
+ 7 historical
+ 8 horror
+ 9 war
+10 mystery
+
+Enter a genre number (ENTER to quit): 1
+Enter a genre number (ENTER to quit): 2
+Enter a genre number (ENTER to quit): 3
+Enter a genre number (ENTER to quit): 
+Title:    Bob
+Year:     2020
+Director: Not ME
+Rating:   10.0
+Genres:   fantasy, drama, romance
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Title:    Dellamorte Dellamore
+Year:     1994
+Director: Michele Soavi
+Rating:   7.2
+Genres:   romance, comedy, zombie, horror
+
+-------------------------------------------------------
+
+
